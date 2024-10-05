@@ -40,6 +40,3 @@ The algorithm runs for a user-defined number of iterations, tracking and compari
 2. Run the notebook and visualize the genetic algorithm's performance on the MKP using different crossover strategies.
 3. Modify the GA parameters as needed to explore different optimization behaviors.
 
----
-
-This description is more aligned with the actual implementation, highlighting the two algorithmic versions and their comparison.
