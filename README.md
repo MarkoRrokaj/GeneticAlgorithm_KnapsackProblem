@@ -1,7 +1,3 @@
-Based on the content of the notebook, here's a more detailed description for the GitHub repository:
-
----
-
 # Genetic Algorithm for Multi-Knapsack Problem
 
 This repository contains the implementation of a **Genetic Algorithm (GA)** to solve the **Multi-Knapsack Problem** (MKP). The MKP is a combinatorial optimization challenge where items must be distributed into multiple knapsacks without exceeding their capacities while maximizing the total profit.
